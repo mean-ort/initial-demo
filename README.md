@@ -1,1 +1,1 @@
-# initial-demo
+# Demo Project
